@@ -1,5 +1,5 @@
 ### Hi, I'm Soumyadeep 👋🏻👨🏻‍💻
-<div><img src="./imgs/banner.png" alt='Banner'></div>
+<div><img src="./imgs/header-img.png" alt='Banner'></div>
 <br>
 I'm a student from India, and I am currently studying at RCC Institute of Information and Technology pursuing B.Tech Degree in Computer Science. 
 
