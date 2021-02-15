@@ -1,6 +1,8 @@
 ### Hi, I'm Soumyadeep 👋🏻👨🏻‍💻
 <div><a href="https://www.linkedin.com/in/soumyadeeppradhan/"><img src="./imgs/header-img.png" alt='Banner'><a/></div>
+  
 ---
+
 <p>I'm a student from India, and I am currently studying at RCC Institute of Information and Technology pursuing B.Tech Degree in Computer Science.<p> <br>
 Skills: ANDROID / FLUTTER / REACT / JS / HTML / CSS
 
