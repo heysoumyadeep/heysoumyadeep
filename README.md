@@ -1,5 +1,5 @@
 ### Hi, I'm Soumyadeep 👋🏻👨🏻‍💻
-<div><a href="https://www.linkedin.com/in/soumyadeeppradhan/"><img src="./imgs/header-img.png" alt='Banner'><a/></div>
+<div><a href="https://www.linkedin.com/in/soumyadeeppradhan/"><img style="border-radius: 30px;" src="./imgs/header-img.png" alt='Banner'><a/></div>
   
 ---
 
