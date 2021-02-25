@@ -8,7 +8,6 @@
 ---
 
 <p>I'm a student from India, and I am currently studying at RCC Institute of Information and Technology pursuing B.Tech Degree in Computer Science.<p> <br>
-Skills: ANDROID / FLUTTER / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on my skills. 
 - 🌱 I’m currently learning Flutter and Dart. 
@@ -16,9 +15,10 @@ Skills: ANDROID / FLUTTER / REACT / JS / HTML / CSS
 ---
 
 <div align="center"> <a href="https://github.com/soumyadeeppradhan/"> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=soumyadeeppradhan' alt='Profile Stats'> <a/>
-  
+ 
+---
 
-
+<div align="center"> <a href="https://gpvc.arturio.dev/soumyadeeppradhan"> <img src='https://gpvc.arturio.dev/soumyadeeppradhan' alt='Profile Stats'> <a/>
 
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=soumyadeeppradhan&show_icons=true)  -->
