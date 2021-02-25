@@ -14,7 +14,7 @@
 
 ---
 
-<div align="right"> <a href="https://github.com/soumyadeeppradhan/"> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=soumyadeeppradhan' alt='Profile Stats'> <a/>
+<div align="right"> <a href="https://github.com/soumyadeeppradhan/"> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=soumyadeeppradhan' alt='Profile Stats'> <a/> </div>
  
 ---
 
