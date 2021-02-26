@@ -14,14 +14,14 @@
 
 ---
 
-<div align="right"> <a href="https://github.com/soumyadeeppradhan/"> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=soumyadeeppradhan' alt='Profile Stats'> <a/> </div>
+<div align="right"> <a href="https://github.com/soumyadeeppradhan/"> <img src='https://github-readme-stats.vercel.app/api?username=soumyadeeppradhan&show_icons=true' alt='GitHub stats'> <a/> </div>
  
 ---
 
 <div align="center"> <a href="https://gpvc.arturio.dev/soumyadeeppradhan"> <img src='https://gpvc.arturio.dev/soumyadeeppradhan' alt='Profile Stats'> <a/>
 
 <!--
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=soumyadeeppradhan&show_icons=true)  -->
+![Profile Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=soumyadeeppradhan)  -->
 <!--
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=soumyadeeppradhan)  -->
 <!--
