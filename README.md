@@ -8,8 +8,7 @@
 ---
 
 <p>I'm a student from India, currently studying at RCC Institute of Information and Technology pursuing B.Tech Degree in Computer Science.<p>
-
-- 🔭 I’m currently preparing for GATE'22 Exam.
+  
 - 🌱 I’m currently learning Full Stack Dev. 
 
 ---
