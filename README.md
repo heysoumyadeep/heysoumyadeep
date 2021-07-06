@@ -13,7 +13,7 @@
 
 ---
 
-<div align="center"> <a href="https://github.com/heysoumyadeep/"> <img src=https://github-readme-stats.vercel.app/api?username=heysoumyadeep&show_icons=true&theme=radical&line_height=27" alt="Soumyadeep Pradhan Github Stats"> <a/> </div>
+<div align="center"> <a href="https://github.com/heysoumyadeep/"> <img src=https://github-readme-stats.vercel.app/api?username=heysoumyadeep&show_icons=true&theme=algolia&line_height=27" alt="Soumyadeep Pradhan Github Stats"> <a/> </div>
  
 ---
 
