@@ -1,5 +1,5 @@
 ## Hello World! 👋🏻👨🏻‍💻
-<div><a href="https://www.linkedin.com/in/heysoumyadeep/"><img style="border-radius: 30px;" src="./imgs/header-img.png" alt='Banner'><a/></div>
+<div><a href="https://heysoumyadeep.github.io/"><img style="border-radius: 30px;" src="./imgs/banner-img.png" alt='Banner'><a/></div>
   
 ---
 
@@ -7,10 +7,10 @@
 
 ---
 
-<p>I'm a student from India, currently studying at RCC Institute of Information and Technology pursuing B.Tech Degree in Computer Science.<p>
+#### I'm a student from India, currently studying at RCC Institute of Information and Technology pursuing B.Tech in Computer Science & Engineering field.
   
-- 🌱 I’m currently learning Full Stack Dev. 
-
+#### 🌱 I’m currently learning Full Stack Dev. 
+  
 ---
 
 <div align="center"> <a href="https://github.com/heysoumyadeep/"> <img src=https://github-readme-stats.vercel.app/api?username=heysoumyadeep&show_icons=true&theme=algolia&line_height=27" alt="Soumyadeep Pradhan Github Stats"> <a/> </div>
