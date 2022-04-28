@@ -16,6 +16,12 @@
 <div align="center"> <a href="https://github.com/heysoumyadeep/"> <img src=https://github-readme-stats.vercel.app/api?username=heysoumyadeep&show_icons=true&theme=algolia&line_height=27" alt="Soumyadeep Pradhan Github Stats"> <a/> </div>
  
 ---
+  
+<h2 align="center">Support me @
+  <a href="https://www.buymeacoffee.com/heysoumyadeep"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="heysoumyadeep" /></a>
+</h2>
+ 
+---
 
 <div align="center"> <a href="https://gpvc.arturio.dev/heysoumyadeep"> <img src='https://gpvc.arturio.dev/heysoumyadeep' alt='Profile Stats'> <a/>
 
