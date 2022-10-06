@@ -7,9 +7,9 @@
 
 ---
 
-#### I'm a student from India, currently studying at RCC Institute of Information and Technology pursuing B.Tech in Computer Science & Engineering field.
+#### I'm a student from India, graduated from RCC Institute of Information and Technology pursued B.Tech in Computer Science & Engineering field.
   
-#### 🌱 I’m currently learning Full Stack Dev. 
+#### 🌱 I’m currently learning Cloud Computing and exploring DevOps. 
   
 ---
 
